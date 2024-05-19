@@ -1,6 +1,6 @@
 {
-  "name": "sm-to-do-list",
-  "version": "1.0.0",
+  "name": "sm-to-do-list-memo",
+  "version": "1.0.2",
   "description": "A to do app",
   "main": "index.js",
   "type": "module",
